@@ -1,4 +1,4 @@
-# ***Monsters Rolodex***
+# ***👽 Monsters Rolodex***
 
 This is Monsters Rolodex web application.
 A simple create-react-app (command line utility of ReactJS) with some cards and a search box.
